@@ -21,6 +21,7 @@ You can download the app for Windows or Android from the links below:
 
 - **[UIU CGPA Calculator for Windows 10 & 11](https://github.com/YeasirAR/UIU_CGPA_CALCULATOR/blob/main/UIU%20CGPA%20Calculator%20For%20Windows%2010%20%26%2011.zip)** (Extract the zip file and run the `.exe`)
 - **[UIU CGPA Calculator APK for Android](https://github.com/YeasirAR/UIU_CGPA_CALCULATOR/blob/main/UIU%20CGPA%20Calculator.apk)** (Install the APK on your Android device)
+- **[Alternative Google Drive Link](https://drive.google.com/drive/folders/1UiQ31arhO7wleX-7cT1TMYUshKTjJ7_b?usp=sharing)**
 
 
 ## 🛠 Built With

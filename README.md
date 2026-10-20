@@ -13,7 +13,7 @@ UIU CGPA Calculator is a simple and efficient tool designed specifically for stu
 
 Try the web version of the app here:
 
-**[UIU CGPA Calculator Web Version](https://yeasirar.github.io/uiu-cgpa-calculator/)**
+**[UIU CGPA Calculator Web Version](https://yeasirar.github.io/UIU_CGPA_CALCULATOR/)**
 
 ## 💻 Downloads
 
@@ -43,7 +43,7 @@ You can download the app for Windows or Android from the links below:
 2. Install the APK on your device.
 
 ### For Web:
-1. Simply visit the web app [here](https://yeasirar.github.io/uiu-cgpa-calculator/).
+1. Simply visit the web app [here](https://yeasirar.github.io/UIU_CGPA_CALCULATOR/).
 
 ---
 
